@@ -1,1 +1,2 @@
-First Line
+git init
+git add notes.txt
